@@ -7,4 +7,4 @@ Figma is a user interface creator for apps, sites, and graphic design. Think of 
 ## Websites
 - [Design with Masha - Youtube channel](https://www.youtube.com/@design_with_mahsa/videos)
 ## Videos
-- [Free Figma Course for Beginners 2025: Step-by-Step Guide | UI/UX Design ](https://www.youtube.com/watch?v=PithB36un3w)
+- [Free Figma Course for Beginners 2025: Step-by-Step Guide | UI/UX Design - Design with Masha](https://www.youtube.com/watch?v=PithB36un3w)
