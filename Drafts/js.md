@@ -7,3 +7,6 @@ Description
 - [w3schools APIs](https://www.w3schools.com/js/js_api_intro.asp)
 ## Videos
 - [video title and channel name](youtube.link)
+
+## Addtional Resources
+- [Webpage for free APIs](https://publicapis.lol/)
