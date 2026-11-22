@@ -4,7 +4,6 @@ Here is a list of links that could be helpful for the budding techonolgy develoo
 Here are some links to get you started on the logic for most basic coding laguages. (Java, [JavaScript,](js.md) [Python,](python.md) C, [R,](r-lang.md) Ruby[--and more](https://en.wikipedia.org/wiki/Object-oriented_programming#))
 - [Geeks for Geeks OOP Explainer](https://www.geeksforgeeks.org/dsa/introduction-of-object-oriented-programming/)
     - With graphics
-
 - [Mozilla Object Oriented Programming](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object-oriented_programming)
 - [Object Oriented Programming - Wikipedia article](https://en.wikipedia.org/wiki/Object-oriented_programming)
 ## Want to Make a new website?
@@ -18,11 +17,14 @@ Here are some links to help with that.
     - Great for beginning develpers wondering if they've left out a feature of their app. 
 - [Don't build (or build) that feature](https://dont.build/)
     - Prevents you from doing extra work by asking questions about a feature you want to make.
+
 ## UI/UX Elements
 - [Uiverse](https://uiverse.io/)
     - Open source UI elements. Can be used for HTML/CSS, Tailwind, Figma, and React.
 - [Viewport UI](https://viewportui.com/)
     - Inspiration for your UI.
+- [Bookmark Styling](https://asciiflow.com/#/)
+    - Brand your site bookmark with this cool tool!
 ## Virtual / Augmented Reality Development
 - [Playcanvas](https://playcanvas.com/)
     -Browser based development for VR/AR and games. 
