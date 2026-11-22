@@ -9,7 +9,7 @@ Github is a type of version control for youer projects. Screw up way down the li
 |```main```| This is your main working branch. The trunk, if you will
 | Push  | Saving your data to a LOCAL or REMOTE repository | ```git push```
 | Pull    | Brings latest changes to your working files from the remote repostiory.     | ```git pull```
-| Commit | A snap shot of your files at that point in time. Does not get sent anywhere. Make sure to add all the files you want to the snapshot and record what you did in the commit message for easy tracking. |``` git add . (enter) git commit -m "your specific commit message that helps you with version control"```
+| Commit | A snap shot of your files at that point in time. Does not get sent anywhere. Make sure to add all the files you want to the snapshot and record what you did in the commit message for easy tracking. |``` git add . ❡ git commit -m "your specific commit message that helps you with version control"```
 | Fetch | Downloads all changes to your files from the repository- DOES NOT CHANGE FILES. Use this to inspect changes before you merge. |```git fetch```
 |Merge | Combines two seperate branches or changes together.|```git merge``` 
 

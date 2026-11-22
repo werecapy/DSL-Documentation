@@ -1,5 +1,5 @@
 # R
-Description
+A language commonly used for data analyasis
 ## Books from our collection at the library
 - [pasted entry from lib site](Website.com)
 ## Websites
